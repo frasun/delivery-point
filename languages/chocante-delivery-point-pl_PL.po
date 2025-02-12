@@ -1,0 +1,90 @@
+# Copyright (C) 2024 Chocante
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: Delivery Point 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/chocante-delivery-"
+"point\n"
+"POT-Creation-Date: 2024-10-04T18:41:38+00:00\n"
+"PO-Revision-Date: 2024-10-04 20:42+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Domain: chocante-delivery-point\n"
+
+#. Plugin Name of the plugin
+#. translators: Delivery point info.
+#: chocante-delivery-point.php includes/class-chocante-delivery-point.php:295
+#: includes/inpost-delivery-point.php:12
+msgid "Delivery Point"
+msgstr "Punkt dostawy"
+
+#. Description of the plugin
+#: chocante-delivery-point.php
+msgid "Choose delivery point for shipping methods (InPost)."
+msgstr "Wybierz punkt dostawy dla metod wysyłki (InPost)."
+
+#. Author of the plugin
+#: chocante-delivery-point.php
+msgid "Chocante"
+msgstr ""
+
+#. translators: %s WC download URL link.
+#: chocante-delivery-point.php:59
+msgid ""
+"Delivery Point requires WooCommerce to be installed and active. You can "
+"download %s here."
+msgstr ""
+
+#: includes/class-chocante-delivery-point.php:50
+msgid "Cloning is forbidden."
+msgstr ""
+
+#: includes/class-chocante-delivery-point.php:57
+msgid "Unserializing instances of this class is forbidden."
+msgstr ""
+
+#: includes/class-chocante-delivery-point.php:116
+msgid "Disabled"
+msgstr "Brak"
+
+#: includes/class-chocante-delivery-point.php:122
+msgid "Set delivery point"
+msgstr "Ustaw punkt dostawy"
+
+#: includes/class-chocante-delivery-point.php:162
+msgid "Please select your delivery point"
+msgstr "Wybierz punkt dostawy"
+
+#: includes/class-chocante-inpost.php:31
+msgid "InPost Parcel Locker"
+msgstr "Paczkomat InPost"
+
+#: includes/class-chocante-inpost.php:35
+msgid "InPost Parcel Locker (Payment on Delivery)"
+msgstr "Paczkomat InPost (za pobraniem)"
+
+#: includes/class-chocante-inpost.php:39
+msgid "InPost Parcel Locker (Weekend Parcel Service)"
+msgstr "Paczkomat InPost (paczka w weekend)"
+
+#: includes/inpost-delivery-point.php:21
+msgid "Search for Parcel Locker"
+msgstr "Znajdź Paczkomat"
+
+#: includes/inpost-delivery-point.php:26
+msgid "Select on map"
+msgstr "Wybierz na mapie"
+
+#: includes/inpost-modal.php:19
+msgid "Close"
+msgstr "Zamknij"
+
+#, fuzzy
+#~| msgid "Set delivery point"
+#~ msgid "Select Delivery Point"
+#~ msgstr "Ustaw punkt dostawy"
