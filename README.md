@@ -9,9 +9,9 @@ and exposed via the WooCommerce REST API. Uses InPost GeoWidget for the picker U
 
 ## Features
 
-- Extensible via `chocante_delivery_point_options` filter — add new providers without modifying the plugin
+- Extensible via filter — add new providers without modifying the plugin
 - Supports InPost Parcel Locker (standard, CoD, weekend)
-- WPML-aware widget language (pl/en/uk)
+- WPML-aware widget language
 - Displays selected pickup point in order shipping address summary
 - Exposes pickup point data in WooCommerce REST API order response
 
